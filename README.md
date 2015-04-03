@@ -10,6 +10,8 @@ A game I made in 12 hours for the 48 hour game jam over at [/r/webgames](http://
 
 Current Game Version: 1.0
 
-License: [Public Domain](http://creativecommons.org/publicdomain/zero/1.0/)
+License: 
+Code & Graphics - [Public Domain](http://creativecommons.org/publicdomain/zero/1.0/)
+Music & Audio  - See sources
 
 About me: [PennPierson.com](http://pennpierson.com/about.php)
