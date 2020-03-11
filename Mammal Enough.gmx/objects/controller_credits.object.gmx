@@ -30,7 +30,7 @@ alarm[1] = 5800;
 
 global.scroll_speed = 1;
 
-alarm_set = 100;
+alarm_set_value = 100;
 alarm_decrease = 1.5;
 
 instance_create(x,y,obj_fade_in);
@@ -136,10 +136,10 @@ instance_create(300,800,obj_carnivore_credits);
     if irandom(1) = 0 {
         instance_create(140+irandom(520),-32,obj_carnivore_dead);
         }
-    alarm[0] = alarm_set;
-    alarm_set -= alarm_decrease;
-    if alarm_set &lt; 1 {
-        alarm_set = 1
+    alarm[0] = alarm_set_value;
+    alarm_set_value -= alarm_decrease;
+    if alarm_set_value &lt; 1 {
+        alarm_set_value = 1
         }
     }
 </string>

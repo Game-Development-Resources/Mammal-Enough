@@ -57,6 +57,7 @@
     <font>fonts\font_credits</font>
   </fonts>
   <objects name="objects">
+    <object>objects\obj_view_controller</object>
     <object>objects\obj_menu</object>
     <object>objects\obj_credits</object>
     <object>objects\controller_dark</object>
